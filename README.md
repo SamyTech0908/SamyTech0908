@@ -9,7 +9,7 @@ Desde então, venho dedicando meu tempo a estudar as áreas de desenvolvimento, 
 
 ## Um Pouco Mais Sobre Mim
 
-<img align="right" alt="Developer" width="180" src="https://i.pinimg.com/1200x/fd/23/d5/fd23d5c87136f08073319714951ee5d4.jpg">
+<img align="right" alt="Developer" width="170" src="https://i.pinimg.com/1200x/fd/23/d5/fd23d5c87136f08073319714951ee5d4.jpg">
 
 - Gosto de estar cercado por pessoas mais experientes que me desafiam a crescer.
 - Atualmente trabalhando em projetos com JavaScript.
