@@ -74,21 +74,4 @@ Minha jornada no mundo da tecnologia começou aos 20 anos, quando comecei a prog
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
 </div>
 
-<!-- Apoie-me -->
-<div align="center">
-  <h3>Apoie-me</h3>
-  <a href="https://www.buymeacoffee.com/joshuathadi">
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="Compre-me um café" />
-  </a>
-</div>
-
-<!-- Final -->
-<div align="center">
-  <a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif">
-    <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="GIF do Wall-E" style="width:auto; height:auto;" />
-  </a>
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
-  <p align="center">
-    Este arquivo README foi desenvolvido exclusivamente por <strong>Joshua Thadi</strong>.
-  </p>
 </div>
