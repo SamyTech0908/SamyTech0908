@@ -13,7 +13,7 @@ Minha jornada no mundo da tecnologia começou aos 20 anos, quando comecei a prog
 <div align="center">
   <h3>Conecte-se comigo:</h3>
 <div align="center" style="display: flex; gap: 500px; justify-content: center;">
-  <a href="samylliscavalcante@email.com">
+  <a href="samylliscavalcante@gmail.com">
     <img width="55px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/samyllis-cavalcante" target="_blank">
