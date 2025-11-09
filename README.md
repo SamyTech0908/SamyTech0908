@@ -29,7 +29,7 @@ Minha jornada no mundo da tecnologia começou aos 20 anos, quando comecei a prog
 
 <div align="center">
   <h3>Linguagens de Programação e Ferramentas que Utilizo</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,gitlab,react,nextjs" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,gitlab,react,nextjs,typescript" /><br>
   <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma" /><br>
   <img src="https://skillicons.dev/icons?i=bash,ubuntu,python,javascript,php,powershell" /><br>
 </div>
