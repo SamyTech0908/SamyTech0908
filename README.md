@@ -13,46 +13,51 @@ Minha jornada no mundo da tecnologia começou aos 20 anos, quando comecei a prog
 
 <!-- Conecte-se Comigo -->
 <div align="center">
-  <h3>Conecte-se Comigo</h3>
-  <a href="mailto:thadijoshua@gmail.com"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/joshuathadi" target="_blank"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
-  <a href="https://masterjudah-bashfolio.netlify.app/" target="_blank"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/11zon_cropped.png" alt="Portfolio" /></a>
-  <a href="https://open.spotify.com/playlist/4FM08w7eopNczgfzspCvIP" target="_blank"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/spotify-icon.png" alt="Spotify" /></a>
-  <a href="https://youtube.com/playlist?list=PLAoJfvFSn6qi_8eTKMXdKGMQGQFYOV54n&si=QA1tSQcT_Ogw5DjG" target="_blank"><img width="57px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/youtube-red1.png" alt="YouTube" /></a>
+  <h3>Conecte-se comigo:</h3>
+<div align="center" style="display: flex; gap: 500px; justify-content: center;">
+  <a href="mailto:exemplo@email.com">
+    <img width="55px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/exemplo" target="_blank">
+    <img width="55px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" />
+  </a>
 </div>
 
 <!-- Status do GitHub -->
 <div align="center">
   <h3>Status do GitHub</h3>
-  <img width="398" src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" />
-  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=JoshuaThadi&theme=nord&hide_border=false" alt="Estatísticas de sequência do GitHub" />
+  <img width="398" src="https://github-readme-stats.vercel.app/api?username=SamyTech0908&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" />
+  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=SamyTech0908&theme=nord&hide_border=false" alt="Estatísticas de sequência do GitHub" />
 </div>
 
 <!-- Linguagens e Ferramentas -->
 <div align="center">
-  <h3>Linguagens e Ferramentas que já Utilizei</h3>
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,mongodb,gitlab,raspberrypi,react,nextjs,tailwind" /><br>
-  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
-  <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,dotnet" /><br>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,neovim,atom,pwsh" /><br>
+  <h3>Linguagens de Programação e Ferramentas que Utilizo</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,gitlab,react,nextjs" /><br>
+  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma" /><br>
+  <img src="https://skillicons.dev/icons?i=bash,ubuntu,python,javascript,php,powershell" /><br>
 </div>
 
 <!-- Melhores Repositórios -->
-<div align="center">
-  <h3>Melhores Repositórios</h3>
-  <a href="https://github.com/JoshuaThadi/Data-Science">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Data-Science&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" />
-  </a>
-  <a href="https://github.com/JoshuaThadi/Artificial-Intelligence">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Artificial-Intelligence&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" />
-  </a>
-  <a href="https://github.com/JoshuaThadi/Computer-Science">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Computer-Science&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" />
-  </a>
-  <a href="https://github.com/JoshuaThadi/Web-Development">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Web-Development&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" />
-  </a>
+<div align="center" style="background-color: #f8f9fa; padding: 20px; border-radius: 10px;">
+  <h3 style="color: #333333; font-family: 'Arial', sans-serif; margin-bottom: 20px;">Melhores Repositórios</h3>
+  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+    <a href="https://github.com/SamyTech0908/Web-Desenvolvedor">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamyTech0908&repo=Web-Desenvolvedor&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
+    </a>
+    <a href="https://github.com/SamyTech0908/Monitoriamento-de-Sono">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamyTech0908&repo=Monitoriamento-de-Sono&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
+    </a>
+    <a href="https://github.com/SamyTech0908/Silksong-2025">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamyTech0908&repo=Silksong-2025&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
+    </a>
+    <a href="https://github.com/SamyTech0908/Portfolio-Profissional">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamyTech0908&repo=Portfolio-Profissional&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
+    </a>
+  </div>
 </div>
+
+
 
 <!-- Conjunto de Tecnologias -->
 <div align="center">
