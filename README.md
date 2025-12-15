@@ -22,10 +22,12 @@ Minha jornada no mundo da tecnologia começou aos 20 anos, quando comecei a prog
 </div>
 
 <div align="center">
-  <h3>Status do GitHub</h3>
-  <img width="398" src="https://github-readme-stats.vercel.app/api?username=SamyTech0908&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" />
-  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=SamyTech0908&theme=nord&hide_border=false" alt="Estatísticas de sequência do GitHub" />
-</div>
+ 
+<h3>Status do GitHub</h3>
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SamyTech0908&show_icons=true&theme=radical)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SamyTech0908&layout=compact&theme=radical)
 
 <div align="center">
   <h3>Linguagens de Programação e Ferramentas que Utilizo</h3>
