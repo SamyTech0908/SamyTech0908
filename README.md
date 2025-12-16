@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/6b/a9/86/6ba986b4f951e531a394ca4847d1eb27.gif" alt="GIF" style="width:auto; height:auto;" />
+  <img src="https://i.pinimg.com/originals/be/7b/f1/be7bf1db1914f570b0882e8f0844418c.gif" alt="GIF" style="width:auto; height:auto;" />
 </div>
 
  <div align="left">
@@ -40,6 +40,8 @@ Minha jornada no mundo da tecnologia começou aos 20 anos, quando comecei a prog
 
 <div align="center">
    <h3>Conecte-se comigo:</h3>
+  <p>Se você também é apaixonado por tecnologia, design ou desenvolvimento, vamos nos conectar! Meu GitHub é um espaço colaborativo, e adoraria trocar ideias, aprender juntos e construir projetos incríveis
+  </p>
 <div align="center" style="display: flex; gap: 500px; justify-content: center;">
   <a href="samylliscavalcante@gmail.com">
     <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" />
