@@ -11,17 +11,6 @@ Minha jornada no mundo da tecnologia começou aos 20 anos, quando comecei a prog
 </div>
 
 <div align="center">
-  <h3>Conecte-se comigo:</h3>
-<div align="center" style="display: flex; gap: 500px; justify-content: center;">
-  <a href="samylliscavalcante@gmail.com">
-    <img width="55px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/samyllis-cavalcante" target="_blank">
-    <img width="55px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" />
-  </a>
-</div>
-
-<div align="center">
  
 <h3>Status do GitHub</h3>
 
@@ -36,12 +25,27 @@ Minha jornada no mundo da tecnologia começou aos 20 anos, quando comecei a prog
   <img src="https://skillicons.dev/icons?i=bash,ubuntu,python,javascript,php,powershell" /><br>
 </div>
 
+<h3>Foco na Produtividade</h3> 
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SamyTech0908&layout=compact&theme=radical&hide_border=true)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamyTech0908&theme=2077" alt="Resumo do perfil"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SamyTech0908&theme=2077&utcoffset=-3" alt="Horas mais produtivas"/>
+</p>
+
 <div align="center">
-  <h3>Conjuntos</h3>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Script Shell" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  
 </div>
 
+<div align="center">
+   <h3>Conecte-se comigo:</h3>
+<div align="center" style="display: flex; gap: 500px; justify-content: center;">
+  <a href="samylliscavalcante@gmail.com">
+    <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/samyllis-cavalcante" target="_blank">
+    <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" />
+  </a>
 </div>
+
