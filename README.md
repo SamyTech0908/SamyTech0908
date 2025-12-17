@@ -57,4 +57,11 @@ Minha jornada no mundo da tecnologia começou aos 20 anos, quando comecei a prog
     <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" />
   </a>
 </div>
-
+  
+<div align="center">
+  <img 
+    width="100%" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=008B8B&height=120&section=footer" 
+    alt="Rodapé ondulado na cor ciana escura"
+  />
+</div>
