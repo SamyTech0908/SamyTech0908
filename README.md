@@ -1,4 +1,5 @@
-
+<div alinhar="centro">
+<imagem largura=100% src="https://capsule-render.vercel.app/api?type=waveng&color=9A3838&height=120&seitaion=cabeçalho"/>
 <div align="center">
   <img src="https://i.pinimg.com/originals/a4/6f/7c/a46f7c4fd7b2226f0f321535c1836119.gif" alt="GIF" style="width:auto; height:auto;" />
 </div>
